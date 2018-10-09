@@ -13,7 +13,7 @@ We are working closely with two labs at EPFL, [DEDIS](https://dedis.epfl.ch) and
 ### With DEDIS tech
 
 #### [Hello Cothority](https://github.com/bsaepfl/hello-cothority)
-A [cothority](https://github.com/dedis/cothority) skipchain explorer.
+A [cothority](https://github.com/dedis/cothority) conode and skipchain explorer.
 
 ### Miscellaneous
 

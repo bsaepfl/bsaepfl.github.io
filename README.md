@@ -10,6 +10,9 @@ We are working closely with two labs at EPFL, [DEDIS](https://dedis.epfl.ch) and
 
 ## Projects
 
+#### [Start Here](https://github.com/bsaepfl/start-here)
+Learning ressources if you want to help us in any way.
+
 ### With DEDIS tech
 
 #### [Hello Cothority](https://github.com/bsaepfl/hello-cothority)
